@@ -1,8 +1,4 @@
-Title : Project 3 - Implementation of Chord Protocol
-
-Team Members : Aswin Suresh Krishnan (UFID : 1890-1173)
-               Akshay Sehgal (UFID : 1416-7988)
-
+Title : Implementation of Chord Protocol
 
 Command to Start : mix run lib/Initializer.ex 25 3
 
