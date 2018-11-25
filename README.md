@@ -26,7 +26,7 @@ Command to Start : mix run lib/Initializer.ex 25 3
 25 - numNodes
 3  - numRequests
 
-Maximum value tested : numNodes = 2000, m = 20. Time taken 1.30s.
+Maximum value tested : numNodes = 2000, m = 20. Time taken 1.30m.
 
 Note : Default m-value (fingertable size) is 20. It should be changed at the top of Initializer.ex and ChordStabilizer.ex files @m 20.
 
